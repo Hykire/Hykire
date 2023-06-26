@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andre Pando</h1>
 <h3 align="center">A Data Scientist/Analyst from Peru</h3>
 
-- 🔭 I’m currently working on Sunai SPA
+- 🔭 I’m currently available to work
 
 - 🌱 I’m currently learning **Ansible**
 
